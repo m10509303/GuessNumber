@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">GuessNumber</string>
+    <string name="upper_bound_title">數字範圍：</string>
+    <string name="guess_range_message">選定數字範圍</string>
+    <string name="default_range">20</string>
+</resources>
